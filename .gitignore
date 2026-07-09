@@ -129,3 +129,6 @@ dmypy.json
 
 # Yarn cache
 .yarn/
+
+# Ignore secrets in '.env' (API keys)
+.env
