@@ -288,7 +288,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
 
         const question = errorSection
           ? 'Explain code and error'
-          : 'Explain code?';
+          : 'Explain code';
         const bodyContent = `${question}\n\n\`\`\`${language}\n${source}\n\`\`\`${errorSection}\n`;
 
         let formattedBody = '';
