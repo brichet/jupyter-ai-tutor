@@ -11,6 +11,10 @@ It currently relies on [jupyter-ai-jupyternaut](https://github.com/jupyter-ai-co
 
 Once Jupyterlab started, the model must be configured via the menu `Settings>Jupyternaut settings` (model and API key).
 
+See Jupyternaut [documentation](https://jupyter-ai.readthedocs.io/en/v3/users/jupyternaut/index.html#model-selection) to set it up.
+
+
+
 ## Requirements
 
 - JupyterLab >= 4.0.0
